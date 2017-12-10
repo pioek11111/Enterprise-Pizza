@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="EnterprisePizzaImproved.Entities.TimeInterval">
+    <Position X="12.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAQAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\TimeInterval.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnterprisePizzaImproved.Entities.Allergen">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Allergen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnterprisePizzaImproved.Entities.Customer">
+    <Position X="12.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAQAAAAAABACAIAAAAAAAAA=</HashCode>
+      <FileName>Entities\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnterprisePizzaImproved.Entities.CustomizedProduct">
+    <Position X="2.25" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAQAAAAAEAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\CustomizedProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnterprisePizzaImproved.Entities.Employee">
+    <Position X="5.5" Y="2" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAACAAACAAAAAAAAAAAAQIAAAAAAACAIAAAAACCAA=</HashCode>
+      <FileName>Entities\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnterprisePizzaImproved.Entities.EmployeeCategory">
+    <Position X="5.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Entities\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnterprisePizzaImproved.Entities.Order">
+    <Position X="14.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>GAEAAgAAAAACAAAABAAQAAAAAAACQAAAAQAAAAEAAAA=</HashCode>
+      <FileName>Entities\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnterprisePizzaImproved.Entities.Product">
+    <Position X="2.5" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>FAAAAAAAAQAgAEAAAAAAAAAAAAAAIAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Entities\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnterprisePizzaImproved.Entities.ProductCategory">
+    <Position X="2.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Entities\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnterprisePizzaImproved.Entities.Topping">
+    <Position X="9.5" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAEAAAAAAAAAAAAAAAQAAAAAAAAAAGQA=</HashCode>
+      <FileName>Entities\Topping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnterprisePizzaImproved.Entities.ToppingCategory">
+    <Position X="9.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAGAAAAAAAAAAABAAAAAACAA=</HashCode>
+      <FileName>Entities\Topping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EnterprisePizzaImproved.Entities.OrderStatus">
+    <Position X="14.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAIIAAAAA=</HashCode>
+      <FileName>Entities\Order.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EnterprisePizzaImproved.Entities.CategorySelection">
+    <Position X="12.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Topping.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EnterprisePizzaImproved.Entities.Obligation">
+    <Position X="14.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Entities\Topping.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
